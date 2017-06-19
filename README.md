@@ -6,7 +6,7 @@ Tradutores: Marianne Rossi Stumpf e Antônio Carlos da Rocha Costa
 
 Original: [http://signwriting.org/library/children/uma/uma.html](http://signwriting.org/library/children/uma/uma.html)
 
-Interativo:[http://degumes.github.io/kauana](http://degumes.github.io/kauana)
+Interativo:[https://degumes.github.io/kauana](http://degumes.github.io/kauana)
 
 ## UFMT - Sistemas Multimídias
 
