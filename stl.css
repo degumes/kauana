@@ -1,0 +1,13 @@
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, FreeSerif, serif !important;
+}
+
+.reveal section img {
+  border: 1px solid #0ff !important;
+ }
