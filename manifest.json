@@ -2,6 +2,7 @@
     "name": "E-book KAUANA em libras",
     "description": "Ebook infantil KAUANA em português e em libras usando signwriting",
     "short_name":"kauna",
+    "start_url": "./?utm_source=homescreen",
     "dir": "ltr",
     "lang": "pt-br",
     "display": "fullscreen",
