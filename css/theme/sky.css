@@ -3,8 +3,8 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import "../../quicksand.css";
-@import "../../opensans.css";
+@import "../quicksand.css";
+@import "../opensans.css";
 .reveal a {
   line-height: 1.3em; }
 
