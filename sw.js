@@ -1,5 +1,5 @@
 this.addEventListener("install", e=>{
-    e.waitUntil(caches.open("23september2017"))
+   e.waitUntil(caches.open("14november2017"))
 })
 this.addEventListener('fetch', function(event) {
   event.respondWith(
@@ -14,7 +14,7 @@ this.addEventListener('fetch', function(event) {
   );
 });
 this.addEventListener("activate", e=>{
-    const lastCache = "23september2017"
+    const lastCache = "14november2017"
     e.waitUntil(
         caches.keys().then(keys=>{
             return Promise.all(keys.map(k=>{
