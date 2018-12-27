@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "plugin/multiplex/package.json"
+      ]
+    }
+  }
+}
