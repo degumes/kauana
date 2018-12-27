@@ -1,5 +1,7 @@
 # Uma Menina Chamada Kauna
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/itacirgabral/kauana.svg)](https://greenkeeper.io/)
+
 Autora: Karin Lilian Strobel
 
 Tradutores: Marianne Rossi Stumpf e Antônio Carlos da Rocha Costa
